@@ -4,56 +4,56 @@
         "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
         "soporte": "multimedial",
         "abstract": "Desarrollo de sistema de información de transparencia municipal",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco de la iniciativa gubernamental de Transparencia Activa, se desarrolló un sistema de información municipal que permitiese comunicar la información a los vecinos de la comuna. El sistema involucró una instalación pública en el centro cívico, afiches y un sitio web con una experiencia de usuario mejorada. El proyecto quedó archivado como una iniciativa piloto exitosa."
     },
     {
         "nombre": "Desafío Transparenta: Descarbonizar Chile",
         "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
         "soporte": "gráfico",
         "abstract": "Visualización de datos del balance nacional de energía",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del primer Desafío Transparenta, uso de datos del Estado abierto, se desarrolló un video y una presentación sobre las oportunidades de descarbonización nacional, nuestros avances y obstáculos para logarlo. Se identificaron industrias críticas para lograr este objetivo, tales como la minería del cobre y el papel-celulosa. Además se problematizó respecto de la situación de movilidad, donde la brecha entre combustibles fósiles y energías limpias es muy amplia."
     },
     {
         "nombre": "Infografía educación superior en Chile",
         "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
         "soporte": "gráfico",
         "abstract": "Infografía sobre las carreras más populares en el país",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del curso “Diseño de Información”, se desarrolló una infografía sobre la educación superior focalizada en las universidades, carreras más comunes, costos y prospectos de sueldo futuros. Se visualizó la brecha entre el costo de algunas de las carreras más populares en contraste con los ingresos que permite obtener al egresar de la misma. El objetivo fue poner a disposición mejores herramientas para la toma de decisiones de los futuros estudiantes universitarios."
     },
     {
         "nombre": "Afiche publicitario Polaroid Spectra",
         "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
         "soporte": "industrial",
         "abstract": "Renderización y composición visual para afiche ficticio",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del curso “Diseño asistido por Computación”, se desarrolló una serie de renders de un modelo 3D de la cámara polaroid Spectra. Estos render fueron utilizados para diagramar y componer un afiche publicitario ficticio que buscaba promover las virtudes de la cámara de manera atractiva al target de mercado de la misma."
     },
     {
         "nombre": "Estudio de luz en Keyshot",
         "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
         "soporte": "industrial",
         "abstract": "Estudio sobre uso y contraste lumínico en Keyshot",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del curso “Diseño asistido por Computación”, se desarrolló una serie de renders de un modelo 3D de una escultura icónica en Bellas Artes. El estudio comprendió el uso de distintas fuentes de luz digitales, siendo capaz de modular distancia, temperatura e intensidad de la luz para generar escenas de toque dramático-artístico."
     },
     {
         "nombre": "Modelado 3D LEGO: pieza y figura",
         "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
         "soporte": "industrial",
         "abstract": "Modelado 3D en Rhinoceros de pieza y figura marca LEGO",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del curso “Diseño asistido por Computación”, se desarrollaron modelos 3D en el software Rhinoceros basados en los planos oficiales de la marca LEGO. Se desarrolló la pieza tradicional de LEGO y el figurín de la misma marca. El objetivo fue la familiarización con las herramientas del modelado 3D como un recurso de Diseño atractivo para prototipar y exponer proyectos e ideas."
     },
     {
         "nombre": "Reverso: Colección Cápsula",
         "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
         "soporte": "vestuario",
         "abstract": "Colección cápsula hecha por método upcycling",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del curso “Mercado I: Sección textil”, se desarrolló una colección cápsula de tres piezas a partir del uso del método de upcycling o reciclaje. Se le dio nueva vida a chaquetas y pantalones de vestir masculinos con el propósito de poner el valor el reverso de las prendas y cómo estas crean un nuevo lenguaje diferente al original."
     },
     {
         "nombre": "Heliot Emil: Grilla de instagram",
         "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
         "soporte": "vestuario",
         "abstract": "Propuesta editorial-digital ficticia para marca de ropa",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "En el marco del curso “El textil como producto”, se desarrolló una propuesta editorial “ficticia” para la marca danesa Heliot Emil. La actividad involucró producción de modas, fotografía, edición y composición de una propuesta editorial para la página de Instagram de la marca. La colección resultante estuvo basada en el trabajo de la marca, tratando de desafiar los límites de la misma y las controversias en que se ha visto involucrada."
     }
 
 ]
