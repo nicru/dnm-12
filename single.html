@@ -52,7 +52,7 @@
         </aside>
         <!-- El pie de página-->
         <footer class="py-4 text-white">
-            <div class="container px-5"><p class="text-center small">Nombre Apellido &copy; 2023</p></div>
+            <div class="container px-5"><p class="text-center small">Nicolás Cruzat &copy; 2023</p></div>
         </footer>
         <!-- Lo que sigue es JavaScript a secas-->
         <script>
@@ -62,7 +62,7 @@
             n = Number(n);
             //crearé una función asincrónica
             async function portfolio() {
-                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno037-2023-1/main/clase-07/datos.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/nicru/dnm-12/main/datos.json");
                 const data = await consulta.json();
                 const cuantos = data.length;
                 //Como n es siempre número: Ya no tengo posibilidad de null
